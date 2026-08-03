@@ -45,10 +45,6 @@ No installation, project, or coding required to try it once.
 
 This flags issues, it does not act on them. Confirm any suggested duplicate before merging anything, and make every field correction or deletion directly yourself.
 
-## Licence
-
-MIT.
-
 ## Feedback
 
 Run it on a real list? [Start a discussion](https://github.com/shaunmarsden/list-hygiene-checker/discussions) if it missed something or flagged a false positive.
