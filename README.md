@@ -11,7 +11,7 @@ Audit any spreadsheet or list for duplicates, missing fields, stale entries and 
 
 Any list added to by more than one person over time accumulates the same quiet problems: the same person entered twice under a different spelling, a required field left blank, a test row nobody removed, an entry that looks complete but has not actually been touched in years. This finds those and hands them to a person to actually action.
 
-![Five outcomes from a list hygiene review.](assets/diagrams/19-list-hygiene-checker.svg)
+[![Five outcomes from a list hygiene review.](assets/diagrams/19-list-hygiene-checker.svg)](SKILL.md)
 
 ## Use It
 
