@@ -42,4 +42,4 @@ Do not produce a hygiene review when:
 
 Confirm any suggested duplicate before merging anything. Every field correction, deletion, or status change stays a direct, deliberate action by a person, not something this check does on its own.
 
-For a fictional worked example, read [the worked example](example/). Use [the blank checklist](templates/hygiene-checklist.md) once you have your own list to run through.
+For a fictional worked example, read [the worked example](example/). For a harder case, two clearly different people sharing the exact same contact details, read [the second worked example](example-two/). Use [the blank checklist](templates/hygiene-checklist.md) once you have your own list to run through, and [the review checklist](checks/checklist.md) before acting on anything flagged.
