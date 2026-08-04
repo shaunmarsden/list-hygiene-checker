@@ -5,7 +5,7 @@ description: Audit any spreadsheet or list for duplicates, missing fields, stale
 
 # List Hygiene Checker
 
-You do not need to install anything to try this once: copy this whole file, paste it as your first message in any AI chat tool, then paste in the list you want checked.
+You do not need to install anything to try this once. The lines between the dashes at the very top are just this file's label; leave them in. On GitHub, copy this using the **Raw** button near the top of the page rather than selecting the rendered text, so the tables and links below paste in cleanly. Send the whole file as your first message in any AI chat tool, then paste in the list you want checked.
 
 Most lists that have been added to by more than one person over time accumulate the same quiet problems: the same person entered twice under a slightly different spelling, a required field left blank, a test row nobody removed after setup, an entry that looks complete but has not actually been touched in years. This finds those, without merging, deleting, or changing anything itself.
 
