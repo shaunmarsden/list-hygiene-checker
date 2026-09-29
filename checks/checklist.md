@@ -1,9 +1,9 @@
 # Human Review Checklist
 
-Run through this before merging, deleting, or changing anything based on a hygiene review.
+Check these before you merge, delete or change anything based on a hygiene review.
 
 - [ ] Every likely duplicate has more than one shared identifier, not just a similar-sounding name
-- [ ] Shared identifiers alone were not treated as proof of a duplicate when the names are genuinely different
-- [ ] Fake or test rows are kept separate from real records with missing fields
-- [ ] A staleness finding checked actual activity, not just whether every field happens to be filled in
-- [ ] Nothing has actually been merged, deleted, or changed without your explicit action
+- [ ] Shared identifiers alone weren't treated as proof of a duplicate when the names are clearly different
+- [ ] Fake or test rows are kept apart from real records with missing fields
+- [ ] Any staleness finding checked real activity, not just whether every field is filled in
+- [ ] Nothing has been merged, deleted or changed unless you did it yourself
