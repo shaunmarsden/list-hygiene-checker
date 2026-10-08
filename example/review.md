@@ -15,7 +15,9 @@ It called the clean row clean. It didn't invent an issue for Dev Patel to look t
 ## What Still Needs a Human Check
 
 - Someone who knows the club still needs to confirm whether the two Tom Higgins entries are the same person. The output rightly stops short of deciding.
-- The staleness threshold here (roughly five years) is just for this list. A weekly mailing list would need a much shorter one than a running club membership.
+- The output doesn't state a staleness threshold or call one illustrative, which the skill asks for. Maria Kowalski's last activity is nearly five years old and is flagged. Ben Foster's is 2022-06-15 with status Active, about four years old, and isn't flagged. A weekly mailing list would need a much shorter threshold than a running club.
+- The output never says which fields it treated as required. It lists Ben Foster's blank phone number under missing fields. The blank email on the second Tom Higgins row appears only under possible duplicates.
+- A real membership list holds names, emails and phone numbers. Check you're allowed to paste it into an AI tool before you run this on one.
 
 ## Verdict
 
