@@ -9,7 +9,7 @@ Check any spreadsheet or list for duplicates, missing fields, stale entries and 
 
 ## Why
 
-Any list that several people add to over time collects the same quiet problems. The same person appears twice under different spellings. A required field is blank. Nobody removed a test row. An entry looks complete but nobody has touched it in years. This finds those and hands them to a person to deal with.
+Many lists that several people add to over time collect the same quiet problems. The same person appears twice under different spellings. A required field is blank. Nobody removed a test row. An entry looks complete but nobody has touched it in years. This finds those and hands them to a person to deal with.
 
 [![Five outcomes from a list hygiene review.](assets/diagrams/19-list-hygiene-checker.svg)](SKILL.md)
 
@@ -32,8 +32,9 @@ Copy [SKILL.md](SKILL.md) and paste it into your AI tool (ChatGPT, Claude, Gemin
 2. Likely duplicates, with the shared identifiers that make them confident
 3. Possible duplicates, kept visibly separate and flagged for you to confirm
 4. Rows that aren't real records at all, kept apart from incomplete real ones
-5. Stale entries, including ones that look complete but haven't moved
-6. Clean rows, named as clean
+5. Real records missing a required field
+6. Stale entries, including ones that look complete but haven't moved
+7. Clean rows, named as clean
 
 </details>
 
