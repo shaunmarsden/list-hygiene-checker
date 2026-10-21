@@ -10,7 +10,7 @@ It kept a fake record apart from incomplete real ones. It flagged "Test Runner" 
 
 It caught the record that looked healthy but wasn't. Every field for Maria Kowalski was filled in, which could pass on a quick scan. The output caught the stale last-activity date behind the complete-looking row, which is the trap this row was built to test.
 
-It called the clean row clean. It didn't invent an issue for Anselm Patel to look thorough.
+It called the clean row clean. It didn't invent an issue for Anselm Maddison to look thorough.
 
 ## What Still Needs a Human Check
 
