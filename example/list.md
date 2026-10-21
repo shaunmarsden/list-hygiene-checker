@@ -11,5 +11,5 @@ An entirely fictional community running club's membership list, exported as give
 | Ben Foster | ben.foster@example.com | | 2022-06-10 | 2022-06-15 | Active |
 | Test Runner | test@test.com | 000-0000 | 2020-01-01 | | Active |
 | Maria Kowalski | maria.k@example.com | 555-0163 | 2021-09-05 | 2021-09-10 | Active |
-| Anselm Patel | anselm.patel@example.com | 555-0111 | 2025-05-12 | 2026-07-25 | Active |
+| Anselm Maddison | anselm.maddison@example.com | 555-0111 | 2025-05-12 | 2026-07-25 | Active |
 | Sam Whitfield | | | 2024-08-01 | | Active |

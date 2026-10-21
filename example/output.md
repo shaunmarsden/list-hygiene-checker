@@ -11,7 +11,7 @@ Source: [list.md](list.md), fictional.
 | Not a real record | 1 (Test Runner) |
 | Missing a required field | 2 (Ben Foster, Sam Whitfield) |
 | Looks complete but stale | 1 (Maria Kowalski) |
-| Clean, no issue found | 1 (Anselm Patel) |
+| Clean, no issue found | 1 (Anselm Maddison) |
 
 ## Likely Duplicates
 
@@ -36,7 +36,7 @@ Source: [list.md](list.md), fictional.
 
 ## Clean
 
-- **Anselm Patel.** All fields present, recent activity, nothing to flag.
+- **Anselm Maddison.** All fields present, recent activity, nothing to flag.
 
 ## What This Does Not Do
 
