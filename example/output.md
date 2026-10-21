@@ -7,11 +7,11 @@ Source: [list.md](list.md), fictional.
 | Issue Type | Rows Affected |
 | --- | --- |
 | Likely duplicate | 2 (Rosa Alvarez / Rosa Alvarrez) |
-| Possible duplicate, needs a human check | 2 (the two Tom Higgins rows) |
+| Possible duplicate, needs a human check | 2 (the two Silas Higgins rows) |
 | Not a real record | 1 (Test Runner) |
 | Missing a required field | 2 (Ben Foster, Sam Whitfield) |
 | Looks complete but stale | 1 (Maria Kowalski) |
-| Clean, no issue found | 1 (Dev Patel) |
+| Clean, no issue found | 1 (Anselm Patel) |
 
 ## Likely Duplicates
 
@@ -19,7 +19,7 @@ Source: [list.md](list.md), fictional.
 
 ## Possible Duplicates, Needs a Human Check
 
-- **The two "Tom Higgins" rows.** Same name, but different email (one blank), different phone, different joined date and different last activity. A shared name alone is not enough to call this the same person confidently, it could be two different club members who happen to share a common name. Confirm with whoever manages the list before merging either way.
+- **The two "Silas Higgins" rows.** Same name, but different email (one blank), different phone, different joined date and different last activity. A shared name alone is not enough to call this the same person confidently, it could be two different club members who happen to share a common name. Confirm with whoever manages the list before merging either way.
 
 ## Not a Real Record
 
@@ -36,7 +36,7 @@ Source: [list.md](list.md), fictional.
 
 ## Clean
 
-- **Dev Patel.** All fields present, recent activity, nothing to flag.
+- **Anselm Patel.** All fields present, recent activity, nothing to flag.
 
 ## What This Does Not Do
 
